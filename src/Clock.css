@@ -1,0 +1,21 @@
+.clockDays{
+    display: inline;
+    margin:5px;
+
+}
+
+.clockHours{
+    display: inline;
+    margin:5px;
+
+}
+
+.clockMinutes{
+    display: inline;
+    margin:5px;
+}
+
+.clockSeconds{
+    display: inline;
+    margin:5px;
+}
